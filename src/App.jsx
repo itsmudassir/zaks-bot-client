@@ -257,7 +257,7 @@ function App() {
                         {index.time.slice(0, 5)}
                       </td>
                       <td className="p-4 text-center border border-slate-400 w-[20%]">
-                        {index.status == "complete" ? (
+                        {index.status == "completed" ? (
                           <button className="px-3 py-1 bg-green-200 border-2 border-green-400">
                             Complete
                           </button>
