@@ -90,12 +90,12 @@ function App() {
   return (
     <>
       <Helmet>
-        <title>Smile Stories</title>
+        <title>App</title>
       </Helmet>
       {/* header */}
       <div className="w-full h-[50px] bg-blue-500 flex items-center">
         <button className="mx-2 bg-orange-200 border-2 border-orange-500 px-2 font-bold">
-          smile stories
+          App
         </button>
       </div>
       <br />
